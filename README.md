@@ -5,7 +5,7 @@ A compact multi-agent farming guide designed for the GenAI Asia Pacific hackatho
 - Crop Advisor Agent: maps season + soil to best crops.
 - Weather Intelligence Agent: provides rain risk and a safe/risky signal (mocked data).
 - Decision Agent: merges the above into a final recommendation.
-- Voice input and a "Today" advice card in the frontend.
+- Profit Margin Estimating Agent: estimates the profit and returns it per acre
 
 ## Project Structure
 
